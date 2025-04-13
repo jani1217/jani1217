@@ -19,7 +19,7 @@
 
 ### Achievements
 -  **Top 10 Finalist** – WOW Hackathon  
--  **3rd Runner-up** – Hacefx Hackathon by ELECTRIFEX  
+-  **3rd Runner-up** – HACKEFX Hackathon by ELECTRIFEX  
 
 ---
 
