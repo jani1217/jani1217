@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jani Reji 👋</h1>
-<h3 align="center">B.Tech Undergrad | ML Enthusiast | Frontend Craftsman | Community Leader</h3>
+<h3 align="center">B.Tech Undergrad | ML Enthusiast | Frontend Craftsman </h3>
 
 
 
