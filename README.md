@@ -5,25 +5,25 @@
 
 ---
 
-- 🔭 Currently working on **Breast Cancer Classification using ML**
-- 🌱 Exploring **Deep Learning** and **Backend Development**
-- 📫 Reach me at: **janireji27@gmail.com**
+-  Currently working on **Breast Cancer Classification using ML**
+-  Exploring **Deep Learning** and **Backend Development**
+-  Reach me at: **janireji27@gmail.com**
 
 ---
 
-### 💼 Roles & Communities
-- 👨‍💻 **Projects Team Lead** – Developer Student Clubs (DSC) MACE  
-- 🚀 **Club Lead** – ENCIDE MACE  
+### Roles & Communities
+-  **Projects Team Lead** – Developer Student Clubs (DSC) MACE  
+-  **Club Lead** – ENCIDE MACE  
 
 ---
 
-### 🏆 Achievements
-- 🏅 **Top 10 Finalist** – WOW Hackathon  
-- 🥉 **3rd Runner-up** – Hacefx Hackathon by ELECTRIFEX  
+### Achievements
+-  **Top 10 Finalist** – WOW Hackathon  
+-  **3rd Runner-up** – Hacefx Hackathon by ELECTRIFEX  
 
 ---
 
-### 🤝 Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/jani-reji" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jani-reji" height="30" width="40" />
