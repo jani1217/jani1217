@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Jani Reji 👋</h1>
 <h3 align="center">B.Tech Undergrad | ML Enthusiast | Frontend Craftsman | Community Leader</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Tech+Explorer+%7C+Hackathon+Finalist+%7C+Always+Learning" alt="Typing SVG" />
-</p>
+
 
 ---
 
