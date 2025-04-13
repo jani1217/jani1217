@@ -13,13 +13,13 @@
 
 ### 💼 Roles & Communities
 - 👨‍💻 **Projects Team Lead** – Developer Student Clubs (DSC) MACE  
-- 🚀 **Club Lead** – ENCIDE MACE (Engineering Coding Club)    
+- 🚀 **Club Lead** – ENCIDE MACE  
 
 ---
 
 ### 🏆 Achievements
 - 🏅 **Top 10 Finalist** – WOW Hackathon  
-- 🥉 **3rd Runner-up** – Hacefx Hackathon by RLRCT Rifex  
+- 🥉 **3rd Runner-up** – Hacefx Hackathon by ELECTRIFEX  
 
 ---
 
